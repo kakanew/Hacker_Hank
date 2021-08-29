@@ -172,7 +172,7 @@ O código de stub bloqueado no editor faz as duas chamadas a seguir para a funç
 
 ## Objetivo
 
-Neste desafio, aprendemos sobre Arrays. Confira o tutorial em anexo para mais detalhes.
+Neste desafio, aprendemos sobre Arrays.
 
 ## Tarefa
 

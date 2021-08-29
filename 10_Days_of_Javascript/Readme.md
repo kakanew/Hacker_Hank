@@ -19,10 +19,10 @@
   - [x] [Day 3: Arrays](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_3/Day_3_Arrays.js)
   - [x] [Day 3: Try, Catch, and Finally](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_3/Day_3_Try_Catch_and_Finally.js)
   - [x] [Day 3: Throw](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_3/Day_3_Throw.js)
-- [ ] Day 4
-  - [ ] Day 4: Create a Rectangle Object
-  - [ ] Day 4: Count Objects
-  - [ ] Day 4: Classes
+- [x] [Day 4](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript/Day_4)
+  - [x] [Day 4: Create a Rectangle Object](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_4/Day_4_Create_a_Rectangle_Object.js)
+  - [x] [Day 4: Count Objects](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_4/Day_4_Count_Objects.js)
+  - [x] [Day 4: Classes](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_4/Day_4_Classes.js)
 - [ ] Day 5
   - [ ] Day 5: Inheritance
   - [ ] Day 5: Template Literals

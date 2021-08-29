@@ -55,7 +55,7 @@ Porque **pontuação = 11** , satisfaz a condição **(10 <pontuação <= 15)** 
 
 ## Objetivo
 
-Neste desafio, aprendemos sobre as instruções switch. Confira o tutorial em anexo para mais detalhes.
+Neste desafio, aprendemos sobre as instruções switch. 
 
 ## Tarefa
 
@@ -103,7 +103,7 @@ O primeiro caractere da string **s = adfgt** é a. Como os critérios dados esti
 
 ## Objetivo
 
-Neste desafio, praticamos looping sobre os caracteres da string. Confira o tutorial em anexo para mais detalhes.
+Neste desafio, praticamos looping sobre os caracteres da string.
 
 ## Tarefa
 

@@ -4,13 +4,11 @@
 
 ### [10 Days of Javascript](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript)
 
-# Day 4: Create a Rectangle Object
+# [Day 4: Create a Rectangle Object](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_4/Day_4_Create_a_Rectangle_Object.js)
 
 ## Objetivo
 
 Neste desafio, praticamos a criação de objetos.
-
-
 
 ## Tarefa
 
@@ -29,11 +27,7 @@ A primeira linha contém um inteiro denotando **a** .
 
 A segunda linha contém um inteiro denotando **b** .
 
-## Restriç
-
-------
-
-## ões
+## Restrições
 
 - **1 <= x, y <= 100**
 
@@ -63,13 +57,11 @@ Dado um **comprimento** de **a = 3** e uma **largura** de **b = 5** , o **perím
 
 ------
 
-# Day 4: Count Objects
+# [Day 4: Count Objects](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_4/Day_4_Count_Objects.js)
 
 ## Objetivo
 
-Neste desafio, aprendemos sobre como iterar objetos. Verifique o tutorial em anexo para obter mais detalhes.
-
-
+Neste desafio, aprendemos sobre como iterar objetos.
 
 ## Tarefa
 
@@ -115,13 +107,11 @@ Como temos dois objetos **o** que satisfazem **ox = oy** (ou seja, **Objetos [0]
 
 ------
 
-# Day 4: Classes
+# [Day 4: Classes](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_4/Day_4_Classes.js)
 
 ## Objetivo
 
-Neste desafio, praticamos o uso de classes JavaScript. Verifique o tutorial em anexo para obter mais detalhes.
-
-
+Neste desafio, praticamos o uso de classes JavaScript.
 
 ## Tarefa
 

@@ -73,7 +73,7 @@ O perímetro do retângulo é **2 X (comprimento + altura) = 2 X (3 + 4,5) = 15*
 
 ## Objetivo
 
-Hoje, estamos discutindo funções JavaScript. Confira o tutorial em anexo para mais detalhes.
+Hoje, estamos discutindo funções JavaScript.
 
 ## Tarefa
 
@@ -113,7 +113,7 @@ Devolvemos o valor de **4! = 4 X 3 X 2 X 1 = 24** .
 
 ## Objetivo
 
-Neste desafio, praticamos declarar variáveis usando as palavras-chave let e const. Confira o tutorial em anexo para mais detalhes.
+Neste desafio, praticamos declarar variáveis usando as palavras-chave let e const.
 
 ## Tarefa
 

@@ -8,7 +8,7 @@
 
 ## Objetivo
 
-Neste desafio, revisamos alguns conceitos básicos que irão ajudá-lo a começar esta série. Confira o tutorial para aprender mais sobre a estrutura lexical do JavaScript.
+Neste desafio, revisamos alguns conceitos básicos que irão ajudá-lo a começar esta série.
 
 ## Tarefa
 
@@ -53,11 +53,11 @@ Imprimimos duas linhas de saída:
 
 ------
 
-# Day 0: Data Types
+# [Day 0: Data Types](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_0/Day_0_Data_Types.js)
 
 ## Objetivo
 
-Hoje, estamos discutindo os tipos de dados. Confira o tutorial em anexo para mais detalhes.
+Hoje, estamos discutindo os tipos de dados.
 
 ## Tarefa
 
