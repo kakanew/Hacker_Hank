@@ -11,5 +11,8 @@ function greeting(parameterVariable) {
     console.log('HackerRank is the best!');
     // Write a line of code that prints parameterVariable to stdout using console.log:   
 }
-//Teste IDE Input
+// Teste IDE Input
 greeting();
+// IDE Output
+// Hello, World!
+// HackerRank is the best!
