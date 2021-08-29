@@ -10,7 +10,7 @@ Complete a função *solveMeFirst* para calcular a soma de dois inteiros.
 
 **Exemplo**
 
-<img src="../../../../AppData/Roaming/Typora/typora-user-images/image-20210829201710693.png" alt="image-20210829201710693" style="zoom: 80%;" />
+<img src="image-20210829201710693.png" alt="image-20210829201710693" style="zoom: 80%;" />
 
 Retornar 10.
 
@@ -28,7 +28,7 @@ Retorna
 
 ## **Restrições**
 
-<img src="../../../../AppData/Roaming/Typora/typora-user-images/image-20210829201613919.png" alt="image-20210829201613919" style="zoom:80%;" />
+<img src="image-20210829201613919.png" alt="image-20210829201613919" style="zoom:80%;" />
 
 ## **Amostra de entrada**
 
@@ -52,7 +52,7 @@ b = 3
 
 Dado um array de inteiros, encontre a soma de seus elementos.
 
-Por exemplo, se a matriz , então <img src="../../../../AppData/Roaming/Typora/typora-user-images/image-20210829201042192.png" alt="image-20210829201042192" style="zoom: 80%;" /> volte 6
+Por exemplo, se a matriz , então <img src="image-20210829201042192.png" alt="image-20210829201042192" style="zoom: 80%;" /> volte 6
 
 ## **Descrição da função**
 
@@ -69,7 +69,7 @@ A segunda linha contém inteiros separados por espaço que representam os elemen
 
 ## **Restrições**
 
-![image-20210829201135752](../../../../AppData/Roaming/Typora/typora-user-images/image-20210829201135752.png)
+![image-20210829201135752](image-20210829201135752.png)
 
 ## **Formato de saída**
 
