@@ -29,7 +29,7 @@ function getPerimeter(length, width) {
     
     return perimeter;
 }
-//Testes IDE Input
+// Testes IDE Input
 console.log(getArea(3,4.5));
 console.log(getPerimeter(3,4.5));
 
@@ -38,3 +38,12 @@ console.log(getPerimeter(311.123,499.997));
 
 console.log(getArea(611.123,999.997));
 console.log(getPerimeter(611.123,999.997));
+// IDE Output
+// 13.5
+// 15
+
+// 155560.566631
+// 1622.24
+
+// 611121.166631
+// 3222.24

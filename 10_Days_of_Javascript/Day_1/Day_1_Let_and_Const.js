@@ -9,6 +9,11 @@ function main(r) { //IDE
     // Print the perimeter of the circle:
     console.log(2 * PI * r)
 }
-//Testes IDE Input
+// Testes IDE Input
 main(2.6);
 main(5);
+// IDE Output
+// 21.237166338267002
+// 16.336281798666924
+// 78.53981633974483
+// 31.41592653589793

@@ -13,8 +13,13 @@ function factorial(n) {
         return factorial
     }
 }
-//Testes IDE Input
+// Testes IDE Input
 console.log(factorial(4));
 console.log(factorial(5));
 console.log(factorial(6));
+// IDE Output
+// 24
+// 120
+// 720
+
 
