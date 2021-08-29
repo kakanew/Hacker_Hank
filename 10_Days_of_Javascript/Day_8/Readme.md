@@ -10,15 +10,17 @@
 
 Neste desafio, colocamos os botões dentro de uma *div* e modificamos seus rótulos após cada evento de clique em um dos botões. Confira o tutorial em anexo para materiais de aprendizagem.
 
-**Tarefa**
+## Tarefa
+
 Queremos criar nove botões dentro de uma *div* , dispostos de forma que formem umgrade. Cada botão tem um rótulo distinto de para , e os rótulos nos botões externos devem girar no *sentido horário* cada vez que clicamos no botão do meio.
 
 Complete o código no editor para que ele satisfaça os seguintes critérios:
 
 - *Estado inicial.* O layout inicial é parecido com este:
   
-- ![layout](1456631615-634977c808-ScreenShot2016-02-28at9.22.14AM.png)
-  
+
+![layout](1456631615-634977c808-ScreenShot2016-02-28at9.22.14AM.png)
+
 - *IDs de elemento.* Cada elemento do documento deve ter um `id`, especificado abaixo:
 
   - Os botão recipiente *div* 's `id`deve ser `btns`.
@@ -36,18 +38,16 @@ Complete o código no editor para que ele satisfaça os seguintes critérios:
   | `8` | `btn8` |
   | `9` | `btn9` |
 
-- Estilo. 
+- *Estilo*. Os elementos do documento devem ter os seguintes estilos:
 
-  Os elementos do documento devem ter os seguintes estilos:
-
-  - O `width`de `btns`é, em relação à largura do corpo do documento.
+  - `width`de `btns`é, em relação à largura do corpo do documento.
 
   - Cada botão (ou seja,`btn1` através `btn9`) satisfaz o seguinte:
 
-    - O `width`é, em relação à largura do contêiner.
-    - O `height`é `48px`.
-    - O `font-size`é `24px`.
-
+    - `width`é, em relação à largura do contêiner.
+    - `height`é `48px`.
+    - `font-size`é `24px`.
+  
 - *Comportamento.* Cada vez que `btn5`é clicado, o `innerHTML`texto no exterior botões da grade (ou seja, `btn1`, `btn2`, `btn3`, `btn4`, `btn6`, `btn7`, `btn8`, `btn9`) deve girar no *sentido horário* direção. *Não* atualize o botão `id`.
 
 Os arquivos `.js`e `.css`estão em diretórios diferentes, portanto, use a tag de *link* para fornecer o caminho do arquivo CSS e a tag de *script* para fornecer o caminho do arquivo JS:
