@@ -4,7 +4,7 @@
 
 ### [10 Days of Javascript](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript)
 
-# Day 1: Arithmetic Operators
+# [Day 1: Arithmetic Operators](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_1/Day_1_Arithmetic_Operators.js)
 
 ## Objetivo
 
@@ -69,7 +69,7 @@ O perímetro do retângulo é **2 X (comprimento + altura) = 2 X (3 + 4,5) = 15*
 
 ------
 
-# Day 1: Functions
+# [Day 1: Functions](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_1/Day_1_Functions.js)
 
 ## Objetivo
 
@@ -109,7 +109,7 @@ Devolvemos o valor de **4! = 4 X 3 X 2 X 1 = 24** .
 
 ------
 
-# Day 1: Let and Const
+# [Day 1: Let and Const](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_1/Day_1_Let_and_Const.js)
 
 ## Objetivo
 
