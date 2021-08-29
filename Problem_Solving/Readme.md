@@ -4,6 +4,50 @@
 
 ### [Problem Solving](https://github.com/kakanew/Hacker_Hank/tree/master/Problem_Solving)
 
+# [Solve Me First](https://github.com/kakanew/Hacker_Hank/blob/master/Problem_Solving/Solve_Me_First.js)
+
+Complete a função *solveMeFirst* para calcular a soma de dois inteiros.
+
+**Exemplo**
+
+<img src="../../../../AppData/Roaming/Typora/typora-user-images/image-20210829201710693.png" alt="image-20210829201710693" style="zoom: 80%;" />
+
+Retornar 10.
+
+## **Descrição da função**
+
+Conclua a função *solveMeFirst* no editor abaixo.
+
+*solveMeFirst* tem os seguintes parâmetros:
+
+- *int a* : o primeiro valor
+- *int b* : o segundo valor
+
+Retorna
+\- *int* : a soma de`a` e `b`
+
+## **Restrições**
+
+<img src="../../../../AppData/Roaming/Typora/typora-user-images/image-20210829201613919.png" alt="image-20210829201613919" style="zoom:80%;" />
+
+## **Amostra de entrada**
+
+```
+a = 2
+b = 3
+```
+
+## **Saída de amostra**
+
+```
+5
+```
+
+## **Explicação**
+
+![image-20210829201536791](image-20210829201536791.png)
+
+------
 # [Simple Array Sum](https://github.com/kakanew/Hacker_Hank/blob/master/Problem_Solving/Simple_Array_Sum.js)
 
 Dado um array de inteiros, encontre a soma de seus elementos.
@@ -51,52 +95,6 @@ Imprimimos a soma dos elementos da matriz:
 <img src="image-20210829200844635.png" alt="image-20210829200844635" style="zoom:80%;" />
 
 ------
-
-# [Solve Me First](https://github.com/kakanew/Hacker_Hank/blob/master/Problem_Solving/Solve_Me_First.js)
-
-Complete a função *solveMeFirst* para calcular a soma de dois inteiros.
-
-**Exemplo**
-
-<img src="../../../../AppData/Roaming/Typora/typora-user-images/image-20210829201710693.png" alt="image-20210829201710693" style="zoom: 80%;" />
-
-Retornar 10.
-
-## **Descrição da função**
-
-Conclua a função *solveMeFirst* no editor abaixo.
-
-*solveMeFirst* tem os seguintes parâmetros:
-
-- *int a* : o primeiro valor
-- *int b* : o segundo valor
-
-Retorna
-\- *int* : a soma de`a` e `b`
-
-## **Restrições**
-
-<img src="../../../../AppData/Roaming/Typora/typora-user-images/image-20210829201613919.png" alt="image-20210829201613919" style="zoom:80%;" />
-
-## **Amostra de entrada**
-
-```
-a = 2
-b = 3
-```
-
-## **Saída de amostra**
-
-```
-5
-```
-
-## **Explicação**
-
-![image-20210829201536791](image-20210829201536791.png)
-
-------
-
 
 
 ### [Hacker Hank](https://github.com/kakanew/Hacker_Hank)
