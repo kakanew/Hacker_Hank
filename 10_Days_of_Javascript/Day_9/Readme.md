@@ -100,4 +100,3 @@ O resultado *div* é parecido com este:
 ![claro3](1456667223-af168e6fc7-ScreenShot2016-02-28at7.16.38PM.png)
 
 ### [Hacker Hank](https://github.com/kakanew/Hacker_Hank)
-
