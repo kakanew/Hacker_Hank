@@ -1,4 +1,4 @@
-![hancker_hank.png](https://github.com/kakanew/Hacker_Hank/blob/master/hackerrank.jpg?raw=true)
+![hackerrank](hackerrank.jpg)
 
 # [Hacker Hank](https://github.com/kakanew/Hacker_Hank)
 
