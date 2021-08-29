@@ -52,7 +52,11 @@ b = 3
 
 Dado um array de inteiros, encontre a soma de seus elementos.
 
-Por exemplo, se a matriz , então <img src="image-20210829201042192.png" alt="image-20210829201042192" style="zoom: 80%;" /> volte 6
+Por exemplo, se a matriz , então
+
+<img src="image-20210829201042192.png" alt="image-20210829201042192" style="zoom: 80%;" /> 
+
+volte 6
 
 ## **Descrição da função**
 
