@@ -30,8 +30,13 @@ function getLetter(s) {
     return letter;
 }
 
-//Testes IDE Input
+// Testes IDE Input
 console.log(getLetter("adfgt"));
 console.log(getLetter("amor"));
 console.log(getLetter("fogo"));
 console.log(getLetter("lampada"));
+// IDE Output
+// A
+// A
+// B
+// C

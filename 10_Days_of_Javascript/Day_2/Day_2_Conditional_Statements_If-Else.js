@@ -21,10 +21,17 @@ function getGrade(score) {
     }
     return grade;
 }
-//Testes IDE Input
+// Testes IDE Input
 console.log(getGrade(11));
 console.log(getGrade(27));
 console.log(getGrade(45));
 console.log(getGrade(55));
 console.log(getGrade(22));
 console.log(getGrade(1));
+// IDE Output
+// D
+// A
+// F
+// F
+// B
+// F

@@ -21,7 +21,66 @@ function vowelsAndConsonants(s) {
         console.log(consonants[j]);
     }
 }
-//Testes IDE Input
+// Testes IDE Input
 vowelsAndConsonants("javascriptloops");
 console.log("-----------------------");
 vowelsAndConsonants("learnjavascriptloopsinhackerrankweekofcode");
+// IDE Output
+// a
+// a
+// i
+// o
+// o
+// j
+// v
+// s
+// c
+// r
+// p
+// t
+// l
+// p
+// s
+// -----------------------
+// e
+// a
+// a
+// a
+// i
+// o
+// o
+// i
+// a
+// e
+// a
+// e
+// e
+// o
+// o
+// e
+// l
+// r
+// n
+// j
+// v
+// s
+// c
+// r
+// p
+// t
+// l
+// p
+// s
+// n
+// h
+// c
+// k
+// r
+// r
+// n
+// k
+// w
+// k
+// f
+// c
+// d

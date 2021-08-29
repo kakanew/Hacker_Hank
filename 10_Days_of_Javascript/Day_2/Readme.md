@@ -4,7 +4,7 @@
 
 ### [10 Days of Javascript](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript)
 
-# Day 2: Conditional Statements: If-Else
+# [Day 2: Conditional Statements: If-Else](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_2/Day_2_Conditional_Statements_If-Else.js)
 
 ## Objetivo
 
@@ -51,7 +51,7 @@ Porque **pontuação = 11** , satisfaz a condição **(10 <pontuação <= 15)** 
 
 ------
 
-# Day 2: Conditional Statements: Switch
+# [Day 2: Conditional Statements: Switch](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_2/Day_2_Conditional_Statements_Switch.js)
 
 ## Objetivo
 
@@ -99,7 +99,7 @@ O primeiro caractere da string **s = adfgt** é a. Como os critérios dados esti
 
 ------
 
-# Day 2: Loops
+# [Day 2: Loops](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_2/Day_2_Loops.js)
 
 ## Objetivo
 
