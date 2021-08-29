@@ -2,17 +2,17 @@
 
 # [Hacker Hank](https://github.com/kakanew/Hacker_Hank)
 
-- [ ] #### [10 Days of Javascript](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript)
+- [ ] [10 Days of Javascript](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript)
 
-- [ ] #### 30 Days of Code
+- [ ] 30 Days of Code
 
-- [ ] #### 10 Days of Statistics
+- [ ] 10 Days of Statistics
 
-- [ ] #### Interview Preparation Kit
+- [ ] Interview Preparation Kit
 
-  - [ ] #### Warm-up Challenges
+  - [ ] Warm-up Challenges
 
-  - [ ] #### Arrays
+  - [ ] Arrays
 
   - [ ] Tips and Guidelines
 
@@ -41,6 +41,5 @@
   - [ ] Miscellaneous
 
   
-
 ##### [Hacker Hank](https://github.com/kakanew/Hacker_Hank)
 
