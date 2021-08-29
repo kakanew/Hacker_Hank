@@ -1,4 +1,4 @@
-# ![hancker_hank.png](https://github.com/kakanew/Hacker_Hank/blob/master/hanckerrank.jpg?raw=true)
+# ![hancker_hank.png](https://github.com/kakanew/Hacker_Hank/blob/master/hackerrank.jpg?raw=true)
 
 # [Hacker Hank](https://github.com/kakanew/Hacker_Hank)
 
@@ -51,13 +51,13 @@ Imprimimos duas linhas de saída:
 1. Imprimimos a string literal Hello, World! usando o código fornecido no editor.
 2. O valor de parameterVariable passado para nossa função principal neste caso de amostra foi Welcome to 10 Days of JavaScript !. Em seguida, passamos nossa variável para console.log, que imprime o conteúdo de parameterVariable.
 
+------
+
 # Day 0: Data Types
 
 ## Objetivo
 
 Hoje, estamos discutindo os tipos de dados. Confira o tutorial em anexo para mais detalhes.
-
-
 
 ## Tarefa
 
