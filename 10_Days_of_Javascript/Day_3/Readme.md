@@ -4,11 +4,11 @@
 
 ### [10 Days of Javascript](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript)
 
-# Day 3: Try, Catch, and Finally
+# [Day 3: Try, Catch, and Finally](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_3/Day_3_Try_Catch_and_Finally.js)
 
 ## Objetivo
 
-Neste desafio, aprendemos sobre strings e exceções. Confira os tutoriais em anexo para mais detalhes.
+Neste desafio, aprendemos sobre strings e exceções.
 
 ## Tarefa
 
@@ -64,7 +64,7 @@ s.split is not a function
 
 ------
 
-# Day 3: Throw
+# [Day 3: Throw](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_3/Day_3_Throw.js)
 
 ## Objetivo
 
@@ -168,7 +168,7 @@ O código de stub bloqueado no editor faz as duas chamadas a seguir para a funç
 
 ------
 
-# Day 3: Arrays
+# [Day 3: Arrays](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_3/Day_3_Arrays.js)
 
 ## Objetivo
 

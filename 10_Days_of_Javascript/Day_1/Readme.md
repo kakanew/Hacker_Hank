@@ -8,7 +8,7 @@
 
 ## Objetivo
 
-Neste desafio, praticamos o uso de operadores aritméticos. Confira o tutorial em anexo para recursos.
+Neste desafio, praticamos o uso de operadores aritméticos.
 
 ## Tarefa
 

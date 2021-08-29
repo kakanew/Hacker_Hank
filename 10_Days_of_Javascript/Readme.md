@@ -15,10 +15,10 @@
   - [x] [Day 2: Conditional Statements: If-Else](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_2/Day_2_Conditional_Statements_If-Else.js)
   - [x] [Day 2: Conditional Statements: Switch](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_2/Day_2_Conditional_Statements_Switch.js)
   - [x] [Day 2: Loops](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_2/Day_2_Loops.js)
-- [x] Day 3
-  - [x] Day 3: Arrays
-  - [x] Day 3: Try, Catch, and Finally
-  - [ ] Day 3: Throw
+- [x] [Day 3](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript/Day_3)
+  - [x] [Day 3: Arrays](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_3/Day_3_Arrays.js)
+  - [x] [Day 3: Try, Catch, and Finally](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_3/Day_3_Try_Catch_and_Finally.js)
+  - [x] [Day 3: Throw](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_3/Day_3_Throw.js)
 - [ ] Day 4
   - [ ] Day 4: Create a Rectangle Object
   - [ ] Day 4: Count Objects

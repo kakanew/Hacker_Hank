@@ -8,7 +8,7 @@
 
 ## Objetivo
 
-Neste desafio, aprendemos sobre as declarações if-else. Confira o tutorial em anexo para mais detalhes.
+Neste desafio, aprendemos sobre as declarações if-else.
 
 ## Tarefa
 
