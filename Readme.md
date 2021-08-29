@@ -4,6 +4,8 @@
 
 - [ ] [10 Days of Javascript](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript)
 
+- [ ] [Problem Solving](https://github.com/kakanew/Hacker_Hank/tree/master/Problem_Solving)
+
 - [ ] 30 Days of Code
 
 - [ ] 10 Days of Statistics

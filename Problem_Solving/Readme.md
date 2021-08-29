@@ -2,9 +2,9 @@
 
 # [Hacker Hank](https://github.com/kakanew/Hacker_Hank)
 
-### Problem Solving
+### [Problem Solving](https://github.com/kakanew/Hacker_Hank/tree/master/Problem_Solving)
 
-# Simple Array Sum
+# [Simple Array Sum](https://github.com/kakanew/Hacker_Hank/blob/master/Problem_Solving/Simple_Array_Sum.js)
 
 Dado um array de inteiros, encontre a soma de seus elementos.
 
@@ -52,7 +52,7 @@ Imprimimos a soma dos elementos da matriz:
 
 ------
 
-# Solve Me First
+# [Solve Me First](https://github.com/kakanew/Hacker_Hank/blob/master/Problem_Solving/Solve_Me_First.js)
 
 Complete a função *solveMeFirst* para calcular a soma de dois inteiros.
 
