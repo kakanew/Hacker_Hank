@@ -1,8 +1,8 @@
-# Hacker Hank
+# ![hancker_hank.png](https://github.com/kakanew/Hacker_Hank/blob/master/hancker_hank.png?raw=true)[Hacker Hank](https://github.com/kakanew/Hacker_Hank)
 
-### 10 Days of Javascript
+### [10 Days of Javascript](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript)
 
-# Day 0: Hello, World!
+# [Day 0: Hello, World!](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_0/Day_0_Hello_World.js)
 
 ## Objetivo
 
@@ -104,3 +104,5 @@ Quando somamos os inteiros **4** e **12** , obtemos o inteiro **16** .
 Quando somamos os números de ponto flutuante **4.0** e **4.32** , obtemos **8,32** . Quando concatenamos o HackerRank com é o melhor lugar para aprender e praticar a codificação !, obtemos que o HackerRank é o melhor lugar para aprender e praticar a codificação !.
 
 **Você não passará neste desafio se tentar atribuir os valores do Caso de Amostra às suas variáveis em vez de seguir as instruções acima.**
+
+### [Hacker Hank](https://github.com/kakanew/Hacker_Hank)

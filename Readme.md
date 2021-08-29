@@ -1,9 +1,9 @@
-# Hacker Hank
+# ![hancker_hank.png](https://github.com/kakanew/Hacker_Hank/blob/master/hancker_hank.png?raw=true)[Hacker Hank](https://github.com/kakanew/Hacker_Hank)
 
-### 10 Days of Javascript
+### [10 Days of Javascript](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript)
 
-- [x] Day 0: Hello, World!
-- [x] Day 0: Data Types
+- [x] [Day 0: Hello, World!](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_0/Day_0_Hello_World.js)
+- [x] [Day 0: Data Types](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_0/Day_0_Data_Types.js)
 - [x] Day 1: Arithmetic Operators
 - [x] Day 1: Functions
 - [x] Day 1: Let and Const
@@ -28,4 +28,4 @@
 - [ ] Day 8: Buttons Container
 - [ ] Day 9: Binary Calculator
 
-### Hacker Hank
+### [Hacker Hank](https://github.com/kakanew/Hacker_Hank)
