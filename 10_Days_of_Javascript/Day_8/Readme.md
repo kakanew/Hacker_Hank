@@ -16,8 +16,9 @@ Queremos criar nove botões dentro de uma *div* , dispostos de forma que formem 
 Complete o código no editor para que ele satisfaça os seguintes critérios:
 
 - *Estado inicial.* O layout inicial é parecido com este:
-  ![layout](1456631615-634977c808-ScreenShot2016-02-28at9.22.14AM.png)
-
+  
+- ![layout](1456631615-634977c808-ScreenShot2016-02-28at9.22.14AM.png)
+  
 - *IDs de elemento.* Cada elemento do documento deve ter um `id`, especificado abaixo:
 
   - Os botão recipiente *div* 's `id`deve ser `btns`.
@@ -74,7 +75,9 @@ Depois de clicar `btn5` vez, eles se parecem com isto:
 
 ![click1](1456632450-3cda1c5938-ScreenShot2016-02-28at9.37.00AM.png)
 
-Depois de clicar `btn5` mais tempo (para um total de cliques), eles têm a seguinte aparência:![click2](1456632516-9a0d9cef8a-ScreenShot2016-02-28at9.38.04AM.png)
+Depois de clicar `btn5` mais tempo (para um total de cliques), eles têm a seguinte aparência:
+
+![click2](1456632516-9a0d9cef8a-ScreenShot2016-02-28at9.38.04AM.png)
 
 ### [Hacker Hank](https://github.com/kakanew/Hacker_Hank)
 
