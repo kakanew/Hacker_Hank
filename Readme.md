@@ -6,6 +6,8 @@
 
 - [ ] [Problem Solving](https://github.com/kakanew/Hacker_Hank/tree/master/Problem_Solving)
 
+- [ ] Linux Shell
+
 - [ ] 30 Days of Code
 
 - [ ] 10 Days of Statistics
