@@ -4,7 +4,7 @@
 
 ### [10 Days of Javascript](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript)
 
-# Day 7: Regular Expressions I
+# [Day 7: Regular Expressions I](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_7/Day_7_Regular_Expressions_I.js)
 
 ## Objetivo
 
@@ -89,7 +89,7 @@ Essa string começa com a vogal a, mas termina na vogal o.
 
 ------
 
-# Day 7: Regular Expressions II
+# [Day 7: Regular Expressions II](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_7/Day_7_Regular_Expressions_II.js)
 
 ## Tarefa
 
@@ -172,7 +172,7 @@ Esta string começa com Er, mas há um espaço antes do ponto (.), Tornando a st
 
 ------
 
-# Day 7: Regular Expressions III
+# [Day 7: Regular Expressions III](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_7/Day_7_Regular_Expressions_III.js)
 
 ## Tarefa
 

@@ -4,7 +4,7 @@
 
 ### [10 Days of Javascript](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript)
 
-# Day 5: Inheritance
+# [Day 5: Inheritance](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_5/Day_5_Inheritance.js)
 
 ## Objetivo
 
@@ -24,7 +24,7 @@ O código bloqueado no editor testa as implementações de classe e método e im
 
 ------
 
-# Day 5: Template Literals
+# [Day 5: Template Literals](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_5/Day_5_Template_Literals.js)
 
 ## Objetivo
 
@@ -91,7 +91,7 @@ Em seguida, armazenamos esses valores em um array, [14, 10], classificamos o arr
 
 ------
 
-# Day 5: Arrow Functions
+# [Day 5: Arrow Functions](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_5/Day_5_Arrow_Functions.js)
 
 ## Objetivo
 

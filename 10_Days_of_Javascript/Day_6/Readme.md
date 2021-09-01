@@ -4,7 +4,7 @@
 
 ### [10 Days of Javascript](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript)
 
-# Day 6: Bitwise Operators
+# [Day 6: Bitwise Operators](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_6/Day_6_Bitwise_Operators.js)
 
 ## Objetivo
 
@@ -98,7 +98,7 @@ Realizamos as seguintes **q = 2** chamadas de função:
 
 ------
 
-# Day 6: JavaScript Dates
+# [Day 6: JavaScript Dates](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_6/Day_6_JavaScript_Dates.js)
 
 ## Objetivo
 

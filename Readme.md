@@ -6,7 +6,7 @@
 
 - [ ] [Problem Solving](https://github.com/kakanew/Hacker_Hank/tree/master/Problem_Solving)
 
-- [ ] Linux Shell
+- [ ] [Linux Shell](https://github.com/kakanew/Hacker_Hank/tree/master/Linux_Shell)
 
 - [ ] 30 Days of Code
 

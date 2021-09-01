@@ -23,21 +23,21 @@
   - [x] [Day 4: Create a Rectangle Object](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_4/Day_4_Create_a_Rectangle_Object.js)
   - [x] [Day 4: Count Objects](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_4/Day_4_Count_Objects.js)
   - [x] [Day 4: Classes](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_4/Day_4_Classes.js)
-- [x] Day 5
-  - [x] Day 5: Inheritance
-  - [x] Day 5: Template Literals
-  - [x] Day 5: Arrow Functions
-- [x] Day 6
-  - [x] Day 6: Bitwise Operators
-  - [x] Day 6: JavaScript Dates
-- [x] Day 7
-  - [x] Day 7: Regular Expressions I
-  - [x] Day 7: Regular Expressions II
-  - [x] Day 7: Regular Expressions III
-- [ ] Day 8
+- [x] [Day 5](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript/Day_5)
+  - [x] [Day 5: Inheritance](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_5/Day_5_Inheritance.js)
+  - [x] [Day 5: Template Literals](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_5/Day_5_Template_Literals.js)
+  - [x] [Day 5: Arrow Functions](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_5/Day_5_Arrow_Functions.js)
+- [x] [Day 6](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript/Day_6)
+  - [x] [Day 6: Bitwise Operators](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_6/Day_6_Bitwise_Operators.js)
+  - [x] [Day 6: JavaScript Dates](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_6/Day_6_JavaScript_Dates.js)
+- [x] [Day 7](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript/Day_7)
+  - [x] [Day 7: Regular Expressions I](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_7/Day_7_Regular_Expressions_I.js)
+  - [x] [Day 7: Regular Expressions II](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_7/Day_7_Regular_Expressions_II.js)
+  - [x] [Day 7: Regular Expressions III](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_7/Day_7_Regular_Expressions_III.js)
+- [ ] [Day 8](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript/Day_8)
   - [ ] Day 8: Create a Button
   - [ ] Day 8: Buttons Container
-- [ ] Day 9
+- [ ] [Day 9](https://github.com/kakanew/Hacker_Hank/tree/master/10_Days_of_Javascript/Day_9)
   - [ ] Day 9: Binary Calculator
 
 ### [Hacker Hank](https://github.com/kakanew/Hacker_Hank)
