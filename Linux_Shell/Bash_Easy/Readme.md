@@ -2,9 +2,9 @@
 
 # [Hacker Hank](https://github.com/kakanew/Hacker_Hank)
 
-### Linux Shell
+### [Linux Shell](https://github.com/kakanew/Hacker_Hank/tree/master/Linux_Shell)
 
-# Let's Echo
+# [Let's Echo](https://github.com/kakanew/Hacker_Hank/blob/master/Linux_Shell/Bash_Easy/Lets_Echo.sh)
 
 Escreva um script de bash que imprime a string "HELLO".
 
@@ -22,7 +22,7 @@ HELLO
 
 ------
 
-# Looping and Skipping
+# [Looping and Skipping](https://github.com/kakanew/Hacker_Hank/blob/master/Linux_Shell/Bash_Easy/Lets_Echo.sh)
 
 Sua tarefa é usar *loops para* exibir apenas números naturais *ímpares* de **199**.
 
@@ -92,7 +92,7 @@ Sua tarefa é usar *loops para* exibir apenas números naturais *ímpares* de 19
 
 ------
 
-# A Personalized Echo
+# [A Personalized Echo](https://github.com/kakanew/Hacker_Hank/blob/master/Linux_Shell/Bash_Easy/Looping_and_Skipping.sh)
 
 Escreva um script Bash que aceita *name* como entrada e exibe a saudação "Bem-vindo (nome)"
 
