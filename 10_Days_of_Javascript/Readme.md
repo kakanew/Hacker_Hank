@@ -23,17 +23,17 @@
   - [x] [Day 4: Create a Rectangle Object](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_4/Day_4_Create_a_Rectangle_Object.js)
   - [x] [Day 4: Count Objects](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_4/Day_4_Count_Objects.js)
   - [x] [Day 4: Classes](https://github.com/kakanew/Hacker_Hank/blob/master/10_Days_of_Javascript/Day_4/Day_4_Classes.js)
-- [ ] Day 5
-  - [ ] Day 5: Inheritance
-  - [ ] Day 5: Template Literals
-  - [ ] Day 5: Arrow Functions
-- [ ] Day 6
-  - [ ] Day 6: Bitwise Operators
-  - [ ] Day 6: JavaScript Dates
-- [ ] Day 7
-  - [ ] Day 7: Regular Expressions I
-  - [ ] Day 7: Regular Expressions II
-  - [ ] Day 7: Regular Expressions III
+- [x] Day 5
+  - [x] Day 5: Inheritance
+  - [x] Day 5: Template Literals
+  - [x] Day 5: Arrow Functions
+- [x] Day 6
+  - [x] Day 6: Bitwise Operators
+  - [x] Day 6: JavaScript Dates
+- [x] Day 7
+  - [x] Day 7: Regular Expressions I
+  - [x] Day 7: Regular Expressions II
+  - [x] Day 7: Regular Expressions III
 - [ ] Day 8
   - [ ] Day 8: Create a Button
   - [ ] Day 8: Buttons Container
